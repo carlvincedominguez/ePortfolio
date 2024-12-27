@@ -18,8 +18,7 @@ If you want to view or customize this ePortfolio, here’s how you can get start
 2. Open the index.html file in your browser to see how it works.
 
 
-
-Customization Instructions
+## Customization Instructions
 
 If you want to make it your own:
 
@@ -32,7 +31,7 @@ Edit the styles in css/eportfolio.css to match your personal branding.
 Add any new features you want using js/script.js.
 
 
-Want to Contribute?
+## Want to Contribute?
 
 I’d love to hear ideas or suggestions! Here’s how you can contribute:
 
@@ -52,9 +51,6 @@ git commit -m "Your message about what you changed"
 
 I appreciate your input!
 
-Final Note
+##Final Note
 
 This project means a lot to me—it’s a snapshot of who I am and what I can do. If you have any feedback or ideas, feel free to reach out or contribute. Thanks for checking it out!
-
-Let me know if you'd like me to tweak this further!
-
