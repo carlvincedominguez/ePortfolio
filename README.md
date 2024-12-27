@@ -51,6 +51,6 @@ git commit -m "Your message about what you changed"
 
 I appreciate your input!
 
-##Final Note
+## Final Note
 
 This project means a lot to me—it’s a snapshot of who I am and what I can do. If you have any feedback or ideas, feel free to reach out or contribute. Thanks for checking it out!
